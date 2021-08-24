@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    padding: 10px 0px;
+}
+
+#status,#number_of_objects {
+    font-size: 18px;
+    width: max-content;
+}
+canvas{
+    border: 2px solid royalblue;
+    margin-top:90px;
+}
